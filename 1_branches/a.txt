@@ -1,3 +1,5 @@
 hello
 
 Git and github
+
+the book's on the table
